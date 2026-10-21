@@ -37,7 +37,6 @@ int main()
     add(m, 0, 2);
     add(m, 1, 2);
     add(m, 3, 2);
-
     int in_deg = get_in(m, 2);
     int out_deg = get_out(m, 2);
     
